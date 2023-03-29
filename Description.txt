@@ -1,0 +1,12 @@
+Using std::list
+
+I created a menu driven application that
+will simulate a user playing songs from a playlist of songs.
+
+We will use a list to simulate the user selecting the the first song in the playlist and
+then selecting next and previous to play forward of backwards through the 
+playlist.
+
+
+We will also allow users to add new song to the playlist and they
+will be added prior to the currently playing song.
